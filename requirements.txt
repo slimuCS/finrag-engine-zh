@@ -1,0 +1,13 @@
+# MCP Python SDK - Model Context Protocol 官方 Python SDK
+mcp>=0.9.0
+
+# Supabase Python 客戶端 - 用於連接 Supabase 資料庫
+supabase>=2.0.0
+
+# python-dotenv - 用於載入 .env 檔案中的環境變數
+python-dotenv>=1.0.0
+
+# OpenAI Python SDK - 用於產生文字 embedding
+openai>=1.0.0
+
+
